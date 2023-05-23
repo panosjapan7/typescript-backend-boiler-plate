@@ -7,3 +7,8 @@
 - dotenv
 - nodemon
 - typescript
+
+## Instructions:
+
+1. Rename **_.example.env_** to **\*.env**
+2. cd to **\*./backend** and run: `npm install`
